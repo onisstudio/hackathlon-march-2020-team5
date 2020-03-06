@@ -99,3 +99,7 @@ body {
   background-color: #1da3d9;
   color: white;
 }
+
+#quiz-response {
+    font-size: 2rem;
+}
