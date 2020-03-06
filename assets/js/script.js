@@ -21,7 +21,7 @@ function getQuestion() {
         
         $(this).after(function() {
             if(val1 + val2 == input.val()) {
-                $('#json').html('There is no demand for women engineers, as such, as there are for women doctors; but there\'s always a demand for anyone who can do a good piece of work.');
+                $('#quiz-response').html('There is no demand for women engineers, as such, as there are for women doctors; but there\'s always a demand for anyone who can do a good piece of work.');
             } else {
                 return 'Try again';
             }
