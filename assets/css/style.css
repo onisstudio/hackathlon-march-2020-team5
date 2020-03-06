@@ -103,3 +103,19 @@ body {
 #quiz-response {
     font-size: 2rem;
 }
+ 
+/* Fast Facts */
+
+.fast-facts {
+    display: flex;
+    justify-content: center;
+    color: #592385;
+    font-size: 2rem
+}
+
+.fast-facts ol {
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center
+}
