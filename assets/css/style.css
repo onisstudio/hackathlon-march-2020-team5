@@ -76,7 +76,7 @@ body {
 .block-divider--white {
   background-color: #ffffff;
 }
-
+ text-white bg-dark
 .about-us-text {
     font-size: 1.25rem;;
 }
