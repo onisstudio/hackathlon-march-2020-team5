@@ -1,7 +1,5 @@
 # Edith Clarke (Hackathon march-06-2020 Team 5)
-One or two paragraphs providing an overview of your project.
 
-Essentially, this part is your sales pitch.
 
 ## UX
 
@@ -63,3 +61,6 @@ For more information about how to Git Clone, you can find it here
 ### Media
 
 ### Acknowledgements
+=======
+# hackathlon-march-2020-team5
+>>>>>>> 7d0161e379dca1aec167824cc636ea73d84ed21a
