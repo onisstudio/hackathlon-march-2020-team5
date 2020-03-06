@@ -1,97 +1,101 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Bubblegum+Sans&display=swap");
 
 body {
-    font-family: 'Ubuntu', sans-serif;
+  font-family: "Bubblegum Sans", cursive;
 }
 
 /* Container */
 .content-container {
-    padding-top: 50px;
-    padding-bottom: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .mt-100 {
-    margin-top: 100px;
+  margin-top: 100px;
 }
 
 .container-wrapper--blue {
-    background-color: #2cafe3;
-    color: white;
+  background-color: #2cafe3;
+  color: white;
 }
 
 /* Jumbotron */
 .jumbotron {
-    background-color: transparent;
+  background-color: transparent;
 }
 
 .jumbotron h1 {
-    color: white;
-    margin-bottom: 30px;
+  color: white;
+  margin-bottom: 30px;
 }
 
 .jumbotron .lead {
-    color: #a7a7a7;
-    margin: 25px 0;
+  color: #a7a7a7;
+  margin: 25px 0;
 }
 
 /* Callout */
 .callout-container {
-    height: 100vh;
+  height: 100vh;
 
-    background-image: url(../images/hero.jpg);
+  background-image: url(../images/hero.jpg);
 
-    background-repeat: no-repeat;
-    background-position: bottom center;
-    background-attachment: fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
-    position: relative;
+  position: relative;
 }
 
 /* Page Headers */
 .page-header {
-    margin-bottom: 25px;
-    text-align: center;
+  margin-bottom: 25px;
+  text-align: center;
 }
 
 /* Block dividers */
 .block-divider {
-    width: 40vw;
-    height: 5px;
-    border: 0;
-    background-color: #212529;
+  width: 40vw;
+  height: 5px;
+  border: 0;
+  background-color: #212529;
 }
 
 .block-divider--blue {
-    background-color: #2cafe3;
+  background-color: #2cafe3;
 }
 
 .block-divider--white {
-    background-color: #ffffff;
+  background-color: #ffffff;
+}
+
+.about-us-text {
+    font-size: 1.25rem;;
 }
 
 /* Buttons */
 .btn--cta {
-    border-radius: 10em;
-    padding: 0.5rem 2.5rem;
+  border-radius: 10em;
+  padding: 0.5rem 2.5rem;
 }
 
 .btn--blue {
-    color: white;
-    background-color: #2cafe3;
+  color: white;
+  background-color: #2cafe3;
 }
 
 .btn--blue:hover,
 .btn--blue:active,
 .btn--blue:focus,
 .btn--blue:active:focus {
-    background-color: #1DA3D9;
-    color: white;
+  background-color: #1da3d9;
+  color: white;
 }
